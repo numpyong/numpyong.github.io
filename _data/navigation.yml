@@ -10,3 +10,18 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "💻 Data Science"
+    children:
+      - title: "Kaggle"
+        url: "/kaggle"
+        category: "Kaggle"
+      
+      - title: "Nath"
+        url: "/math"
+        category: "Mate"
+
+      - title: "논문"
+        url: "/thesis"
+        category: "Thesis"
